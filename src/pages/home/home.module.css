@@ -1,0 +1,13 @@
+.home{
+    width: 360px;
+    margin: 60px auto;
+    padding: 30px
+}
+.home h2{
+    margin: 30px auto;
+    display: block;
+}
+
+.home p {
+    margin: 30px auto;
+}
